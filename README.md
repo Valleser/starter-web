@@ -6,4 +6,7 @@ This repository is for showing how Git and GitHub work
 
 Sample purpose
 modified
+###Copyright
+
+2020
 Sample website with plenty of files for demos
